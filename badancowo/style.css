@@ -1,0 +1,39 @@
+body {
+  color: black;
+  font-family: monospace;
+  background-color: white;
+  background-image: url(/img/Background.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: auto;
+}
+span {
+  color: black;
+}
+.wrapper {
+  font-family: monospace;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 40px;
+  width: 30%;
+  background: transparent;
+  border-radius: 40px;
+  box-shadow: 5px 7px 5px black;
+  font-weight: bold;
+}
+input {
+  outline: none;
+  border: none;
+  padding: 5px;
+}
+button {
+  color: black;
+  padding: 10px;
+  border: 2px solid white;
+  background: transparent;
+  display: block;
+  margin-top: 10%;
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+body {
+  font-family: monospace;
+  background-image: url(/img/Background.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: auto;
+}
+.awal {
+  margin-left: 5%;
+  margin-top: 20%;
+}
+.awal h1 {
+  font-size: 50px;
+  color: #212121;
+  margin-bottom: 20px;
+}
+.awal span {
+  color: aliceblue;
+}

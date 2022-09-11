@@ -1,0 +1,24 @@
+body {
+  font-family: monospace;
+  background-image: url(/img/Background.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: auto;
+}
+
+.row{
+  font-family: monospace;
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 40px;
+  width: 30%;
+  background: transparent;
+  border-radius: 40px;
+  box-shadow: 5px 7px 5px black;
+  font-weight: 900;
+}
+.suhuanjay label{
+  text-align: center;
+}
